@@ -27,10 +27,6 @@ The purpose of this assignment is to:
 - MySQL2 package
 - Postman
 
-## Database Connection
-
-The application uses NodeJS and Express to connect to the MySQL database. Make sure to configure the database connection details in the appropriate configuration file.
-
 ## Installation
 
 Clone the project
