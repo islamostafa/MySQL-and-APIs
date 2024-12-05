@@ -106,3 +106,13 @@ POST 127.0.0.1:3000/api/v1/students/enrol
 | :--- | :--- | :--- |
 | `studentID` | `int` | **Student ID** |
 | `courseID` | `int` | **Course ID** |
+
+## Role-Based Access Control
+
+The system implements role-based access control to restrict certain actions to specific roles. For example:
+- Assigning courses to teachers is limited to college staff
+- Pass/fail decisions are made by teachers
+
+## Testing
+
+Use Postman to test and demonstrate the results of executing the APIs. For guidance on sending your first request, refer to the [Postman Learning Center](https://learning.postman.com/docs/getting-started/sending-the-first-request/).
