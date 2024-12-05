@@ -1,4 +1,31 @@
-# CSCK542 Group Project
+# Database Management System
+
+This project is a group university assignment aimed at developing a database management system with a REST API interface. The system is designed to handle various functional requirements related to course management, student enrollment, and academic operations.
+
+## Project Overview
+
+The purpose of this assignment is to:
+
+1. Create SQL queries to support functional requirements
+2. Develop a business logic layer with APIs for each functional requirement using NodeJS
+3. Test and demonstrate results using Postman
+4. Practice remote database connection and implement role-based access control
+
+## Features
+
+- SQL query creation for various database operations
+- NodeJS and Express application for database connectivity
+- RESTful APIs to support functional requirements
+- Role-based access control for specific actions (e.g., course assignment, grading)
+- Postman collection for API testing and demonstration
+
+## Technologies Used
+
+- SQL
+- NodeJS
+- Express
+- MySQL2 package
+- Postman
 
 ## Installation
 
